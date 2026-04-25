@@ -1,0 +1,58 @@
+
+How to use:
+
+1. Make sure you have Python installed (Python 3.8 or higher recommended)
+    Extract the .zip and delete zip folder.
+    Open extracted folder "Steam-Booster-By-V"
+
+
+2. Install the required requests:
+
+   Open Command Prompt / Terminal
+   (In the folder, type CMD in the search bar & hit enter)
+   
+   and then run:
+   
+   py -m pip install -r requirements.txt
+
+
+
+3. Run the program:
+
+   Double-click booster.py in folder or just run this command:
+   
+   py booster.py
+
+
+
+4. Follow the instructions in terminal:
+
+   - Choose whether to stay offline while boosting
+   - Login with your Steam username and password
+   - Choose whether to save user/pass
+   - Enter App IDs of the games you want to boost
+   - Set duration (leave empty for unlimited)
+   - Choose whether to save preset
+
+
+
+Useful Tips:
+
+• Press Ctrl + C or close terminal to stop boosting at any time.
+• You can save your credentials so you don't have to type them every time. (except steam guard code)
+• You can save presets for your favorite games/hours.
+• mobile steam guard codes seem to work best (idk why) email sometimes give me sign in errors
+• game IDs can be found on the games store page
+      (example: https://store.steampowered.com/app/381210/Dead_by_Daylight)
+                               The id is right here ^
+                                     "381210"
+
+That's it. Just leave the CMD window open in background. 
+Steam can be closed and no need for the game to be open either, just farm playtime while you are busy or sleeping. 
+
+        ENJOY!
+
+
+discord.gg/XjPKhvHBNH
+
+
